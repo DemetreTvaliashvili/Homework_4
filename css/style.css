@@ -1,0 +1,75 @@
+.container {
+  width: 1088px;
+  margin: 0 auto;
+}
+.article-container {
+  margin-top: 50px;
+  margin-bottom: 102px;
+}
+.left-box {
+  width: 536px;
+  height: 190px;
+  display: inline-block;
+  margin-right: 12px;
+  background-color: #f8f8f8;
+}
+.right-box {
+  width: 536px;
+  height: 190px;
+  display: inline-block;
+  background-color: #be2b2b;
+}
+.menu-img {
+  margin-right: 16px;
+  vertical-align: middle;
+}
+.menu-txt {
+  display: inline-block;
+  vertical-align: middle;
+}
+.menu-p {
+  width: 260px;
+  font-family: 'Arial GEO Italic';
+  font-size: 14px;
+  color: #b1b1b1;
+}
+
+.blog-article {
+  display: inline-block;
+  text-align: center;
+  width: 352px;
+}
+.blog-txt {
+  padding: 23px 46px;
+}
+
+.food-type {
+  font-family: 'Arial GEO', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #5863f8;
+}
+.menu-subtitle {
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Arial GEO', sans-serif;
+}
+h2 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #5863f8;
+}
+
+.blogtitles {
+  font-family: 'Edu VIC WA NT Beginner';
+  text-transform: uppercase;
+}
+
+.latino {
+  font-family: 'Dancing Script';
+}
+
+h3 {
+  font-size: 42px;
+  font-weight: bolder;
+}
