@@ -26,6 +26,7 @@
 .menu-txt {
   display: inline-block;
   vertical-align: middle;
+  height: 190px;
 }
 .menu-p {
   width: 260px;
@@ -41,6 +42,7 @@
 }
 .blog-txt {
   padding: 23px 46px;
+  background-color: #f8f8f8;
 }
 
 .food-type {
@@ -63,6 +65,7 @@ h2 {
 .blogtitles {
   font-family: 'Edu VIC WA NT Beginner';
   text-transform: uppercase;
+  color: #5863f8;
 }
 
 .latino {
